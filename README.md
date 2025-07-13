@@ -27,4 +27,5 @@ HTML5 also includes the following new features, among others:
 HTML Geolocation - for making navigation apps
 HTML Drag and Drop - for dragging and dropping objects on the screen
 HTML Local Storage - for storing data on mobile devices
-HTML Web Workers - for speeding up page loading times by running multiple processes at the same time
+HTML Web Workers - for speeding up page loading times by running multiple processes at the same time.
+
