@@ -29,3 +29,12 @@ HTML Drag and Drop - for dragging and dropping objects on the screen
 HTML Local Storage - for storing data on mobile devices
 HTML Web Workers - for speeding up page loading times by running multiple processes at the same time.
 
+Tips:
+1.Folders: Be careful which folder you save your work into. Very often, people create a folder, but save their files to another folder by mistake, and then they cannot find their files.
+2.Extension file names: the extension file name is the part of the name after the 'dot'. For example, the file index.html has an extension filename of html. The extension file name is very important! Having the wrong extension file name will cause your page not to load in the browser. When you are saving your file for the first time, check (and then double-check!) that you have the correct extension file name: .html not .txt
+3.Double extension file name: If you are not careful, your file can be saved with a double extension filename like index.txt.html.
+4.HTML tags: this is what an open tag looks like:<html>
+5.HTML tags: this is what a close tag looks like:</html>
+6.HTML tags: the difference between an open tag and a close tag is the forward slash: /
+7.HTML tags: be careful not to use the back slash \ in your tags. This is wrong.
+8.Save your work: make it a habit of saving your work regularly.
