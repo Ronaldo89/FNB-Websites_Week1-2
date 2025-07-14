@@ -60,3 +60,69 @@ Some of the major web file formats you will encounter are:
 .xml: XML files are usually used for configuration information.
 
 .php: PHP scripts contain backend server-side scripts for your application.
+
+Working with images:
+
+n HTML images are defined with the Image tag. 
+
+The Image tag contains attributes only, and does not have a closing tag. 
+
+The src attribute defines the url (web address) of the image. You can use PNG, JPEG or GIF image files. Make sure you specify the correct image file name in the src attribute. 
+
+Remember: the image name is always case sensitive. In other words, if your image is called "Car.jpg" (with an uppercase "c") and you type "car.jpg" (with a lower case "c") then your image will not be found. 
+
+Make sure you have the correct extension file name too. These are also case-sensitive, so .JPG and .jpg are regarded as totally different. 
+
+Tips
+If your browser does not show your image:
+
+1. Spelling: be careful with how you spell img and src.
+2. Double quotes: make sure you have your double quotes " in place, as in the code snippet above.
+3. Folder name: ensure you have the correct folder name before the file name. So if your file is called "car.jpg" and is stored in a folder called images, then you will type src="images/car.jpg"
+4. Case sensitive: as mentioned in the lesson, your computer will recognise the file name image.jpg and Image.jpg as two completely different files. So make sure you match the correct case of each letter.
+5. Forward slash: are you using the forward slash / and not the back slash?
+
+
+HYPERLINKS
+A hyperlink is a text or an image you can click on, and jump to another page, website or document.
+
+In HTML, links are defined with the <a> tag
+
+The href attribute specifies the destination address (http://www.compukids.me)
+
+The link text is the visible part (visit our website)
+
+
+About File Names
+When naming your files, keep the following in mind:
+
+Avoid spaces in your filenames:
+
+about-us.html          -->Right
+
+about us.html           -->Wrong
+
+
+
+Use small (lowercase) letters:
+
+about.html              -->Right
+
+ABOUT.HTML         -->Wrong
+
+
+
+Use a descriptive name:
+
+lions.html              -->Right
+
+p1532.html            -->Wrong
+
+
+
+Keep the names short:
+
+lions.html                -->Right
+
+a-page-about-lions-in-the-pine-city-zoo.html              -->Wrong
+
