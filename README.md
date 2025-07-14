@@ -38,3 +38,25 @@ Tips:
 6.HTML tags: the difference between an open tag and a close tag is the forward slash: /
 7.HTML tags: be careful not to use the back slash \ in your tags. This is wrong.
 8.Save your work: make it a habit of saving your work regularly.
+
+
+Lesson 5: Web File Formats
+About Web Files
+By now you have noticed we are using the file extension .html or .htm for your web pages. These are the file types for HTML pages.
+
+Similarly, there are other types of files you will come across as you work with websites and apps. As a developer, it is important to understand these file types, and what types of content they contain.
+
+Popular Web File Types
+Some of the major web file formats you will encounter are:
+
+.html and .htm: As the format suggests, all HTML files are stored in either of these formats.
+
+.css: Cascade Style Sheets are stored in .css files.
+
+.jpeg .jpg .png .gif: These are image types. See the next section to decide which image type is best for different purposes.
+
+.mp4 .webm .ogg: These are video file formats.
+
+.xml: XML files are usually used for configuration information.
+
+.php: PHP scripts contain backend server-side scripts for your application.
