@@ -126,3 +126,21 @@ lions.html                -->Right
 
 a-page-about-lions-in-the-pine-city-zoo.html              -->Wrong
 
+What is CSS?
+Cascading Style Sheets,  or CSS, is a simple design language that we use to make web pages beautiful and presentable.
+
+Using CSS, you can set the colours, fonts and background images.
+
+CSS is different from HTML, and they both serve completely different functions. Using HTML you create the structure of your page, and with CSS you add colors and styles to your page.
+
+Benefits of CSS
+CSS helps your pages load faster
+CSS saves time
+CSS makes maintaining a site easy
+
+
+A div box acts like a container on your page. It limits styles to a specific area on the screen, and prevents these styles from being applied elsewhere.
+
+We add a DIV box to our page using the <div> tag.
+
+The  <div>  tag must be given an id or a class name. Our CSS will identify a div box by its id or class name.
